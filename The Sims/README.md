@@ -1,5 +1,7 @@
 # The Sims Kusudama Data
 
+<img src="The_Sims_Kusudama.jpeg" width="250">
+
 Name: The Sims
 
 Color: Green
